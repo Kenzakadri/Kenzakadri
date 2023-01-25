@@ -30,6 +30,9 @@ I am working on the ✨neural substrates of decision-making and addiction✨ in 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 <img src="Matlablogo.svg" alt="drawing" width="100"/>
+
+## Find my resume on my [website](https://kenzakadri.github.io/)
+
 ## Fun fact
 - I wear sunglasses inside because I am visually impaired... or maybe it's because I am just ✨French✨ 😎
 - I love to put logos everywhere (as you can see)
