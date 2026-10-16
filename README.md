@@ -2,7 +2,7 @@
 
 ## I am a **postdoctoral researcher** applying **Machine Learning** and **computational modelling** to understand the brain 🧠 and behaviour.
 
-During my PhD, I used **Machine Learning** on resting-state fMRI from the [Human Connectome Project](https://www.humanconnectome.org/study/hcp-young-adult/data-releases) to map precise subdivisions of the striatum and link them to impulsivity and addiction. I now work in [Tobias Hauser's Developmental Computational Psychiatry lab](https://www.medizin.uni-tuebingen.de/de/das-klinikum/einrichtungen/kliniken/psychiatrie-und-psychotherapie/allgemeine-psychiatrie/forschung/developmental-computational-psychiatry) at the University of Tübingen, where I study ✨how dopamine and noradrenaline shape decision-making✨.
+I currently work in [Tobias Hauser's Developmental Computational Psychiatry lab](https://www.medizin.uni-tuebingen.de/de/das-klinikum/einrichtungen/kliniken/psychiatrie-und-psychotherapie/allgemeine-psychiatrie/forschung/developmental-computational-psychiatry) at the University of Tübingen, where I study ✨how dopamine and noradrenaline shape decision-making✨. Before that, during my PhD, I used **Machine Learning** on resting-state fMRI from the [Human Connectome Project](https://www.humanconnectome.org/study/hcp-young-adult/data-releases) to map precise subdivisions of the striatum and link them to impulsivity and addiction.
 
 ## What I am doing 🌱
 - Combining **real-time fMRI**, **computational modelling** and behavioural tasks to understand how neuromodulators drive information gathering and decision-making.
