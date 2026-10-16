@@ -2,19 +2,14 @@
 
 ## I am a **postdoctoral researcher** applying **Machine Learning** and **computational modelling** to understand the brain 🧠 and behaviour.
 
-I currently work in [Tobias Hauser's Developmental Computational Psychiatry lab](https://www.medizin.uni-tuebingen.de/de/das-klinikum/einrichtungen/kliniken/psychiatrie-und-psychotherapie/allgemeine-psychiatrie/forschung/developmental-computational-psychiatry) at the University of Tübingen, where I study ✨how dopamine and noradrenaline shape decision-making✨.
-
-## Highlight: Machine Learning on the Human Connectome Project 🧠🤖
-During my PhD in the [Fouragnan lab](https://www.elsa-fouragnan.com/) (University of Plymouth, 2024), I used **Machine Learning** on resting-state fMRI from the [Human Connectome Project](https://www.humanconnectome.org/study/hcp-young-adult/data-releases) (HCP) to:
-- **parcellate the striatum** into precise, data-driven subdivisions from its connectivity patterns
-- **predict behavioural measures** of impulsivity and addiction from striatal connectivity across hundreds of participants
-- build a full pipeline on a large, high-dimensional neuroimaging dataset: preprocessing, feature extraction, model training, cross-validation and interpretation
+During my PhD, I used **Machine Learning** on resting-state fMRI from the [Human Connectome Project](https://www.humanconnectome.org/study/hcp-young-adult/data-releases) to map precise subdivisions of the striatum and link them to impulsivity and addiction. I now work in [Tobias Hauser's Developmental Computational Psychiatry lab](https://www.medizin.uni-tuebingen.de/de/das-klinikum/einrichtungen/kliniken/psychiatrie-und-psychotherapie/allgemeine-psychiatrie/forschung/developmental-computational-psychiatry) at the University of Tübingen, where I study ✨how dopamine and noradrenaline shape decision-making✨.
 
 ## What I am doing 🌱
 - Combining **real-time fMRI**, **computational modelling** and behavioural tasks to understand how neuromodulators drive information gathering and decision-making.
 - Linking psychiatric dimensions to behaviour on large datasets, e.g. how credit-assignment impairments relate to impulsivity and substance use, using **reinforcement learning models**, **Machine Learning** and **Bayesian modelling** (Stan).
 
 ## What I did 👵
+- **PhD in Psychology** (University of Plymouth, 2024) in the [Fouragnan lab](https://www.elsa-fouragnan.com/): **Machine Learning** on HCP rs-fMRI to relate striatal subdivisions to behavioural measures of impulsivity and addiction, and RL models of credit assignment and alcohol use.
 - Modelled the cortico-pulvino-cortical network in cats to confirm the role of the pulvinar in synchronising areas 17 and 21a, using an _adaptive exponential integrate-and-fire model_.
 - Master's in **Systems Biology** (Sorbonne Université; the programme is now called **AI and Machine Learning**): analysed genomic and transcriptomic data (which genes are involved in osteosarcoma, and how do they connect together?) and behavioural data (why are we left- or right-handed 👌), and worked on everything from single- and multi-layer **neural networks** (⭐ ✨) to complex systems (how to model glucose levels in a diabetic mouse model).
 
